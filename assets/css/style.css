@@ -3,7 +3,18 @@ body {
   background: #E8EAE8;
   color: black;
 }
-
+.top-left {
+  position: absolute;
+  top: 20px;
+  left: 26px;
+}
+/* Bottom left text */
+.bottom-left {
+  color: #0c0b09;
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
 a {
   color: #cda45e;
 }
